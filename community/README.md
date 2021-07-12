@@ -1,6 +1,6 @@
-# community
+# Lend a hand
 
-A new Flutter project.
+Help the needy ones.
 
 ## Getting Started
 
